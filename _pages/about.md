@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About me
-======
 
 I am an Associate Professor (Maître de Conférences) at Université du Littoral Côte d'Opale (ULCO, LISIC) in Calais and Saint-Omer, France since Sept. 2022. Prior to this position, I was a post-doctoral lecturer at the University of Rouen, France (2021-2022) at I hold a PhD from the University of Toulouse (IRIT, IRAP), France since Oct. 2021. My PhD received the 2021 Leopold Escande Award from the Toulouse-INP Institute.
 
