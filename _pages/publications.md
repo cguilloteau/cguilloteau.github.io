@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Talks"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,3 +15,15 @@ Journals
 ======
 
 C. Guilloteau, T. Oberlin, O. Berné and N. Dobigeon, "Hyperspectral and Multispectral Image Fusion Under Spectrally Varying Spatial Blurs – Application to High Dimensional Infrared Astronomical Imaging", IEEE Transactions on Computational Imaging, vol. 6, pp. 1362-1374, 2020.
+
+International Conferences
+======
+
+National Conferences
+======
+
+Technical Reports
+======
+
+Thesis
+======
