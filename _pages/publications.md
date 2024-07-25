@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+{% include base_path %}
+
 Journals
 ======
 
