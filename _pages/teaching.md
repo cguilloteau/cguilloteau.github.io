@@ -11,6 +11,8 @@ I am currently teaching in the Electrical Engineering and Industrial Computing D
 
 ## 2024-2025
 
+Links coming soon...
+
 - Vision industrielle (BUT3), in charge.
 - Maintenance industrielle (BUT3), in charge.
 - Maintenance industrielle (BUT2), in charge.
