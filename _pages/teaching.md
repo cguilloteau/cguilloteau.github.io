@@ -36,7 +36,7 @@ Links coming soon...
 From Sept. 2021 to Aug. 2022, I was teaching as a postdoctoral lecturer in the Mathematical Engineering Dpt and in the Computer Science Dpt of the University of Rouen, France.
 
 - Statistics
-- Numerical Methods
+- Numerical analysis
 - Optimisation
 - Information theory
 - Update trainins sessions in mathematics
