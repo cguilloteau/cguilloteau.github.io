@@ -14,7 +14,8 @@ Research interests
 
 My work focuses on the generation and fast processing of large volumes of data for astrophysical and satellite observations by learning latent representations of this data. My research include the fusion of multispectral and hyperspectral data from the James Webb Space Telescope and Earth observation satellites. Another area of my research involves the robust generation of high-fidelity data using generative networks derived from machine learning utilizing deep neural networks. 
 
-<!---
+
 News/Events
 ======
---->
+
+**Sept. 30, 2024 :** We are hiring a postodoctoral researcher (1 year, renewable) to work on temporal graph auto-encoders for anomaly detection in industrial internet of things. See more on [Job Openings](jobs).
