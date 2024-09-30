@@ -11,4 +11,4 @@ author_profile: true
 
 *Supervisors : Esteban Bautista, Claire Guilloteau.*
 
-Read more [here](../files/postdoc2025_EBCG.pdf)
+Read more [here](../files/Postdoc2025_EBCG.pdf)
