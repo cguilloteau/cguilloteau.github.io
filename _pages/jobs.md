@@ -15,5 +15,5 @@ Read more [here](../files/Postdoc2026_EBCG.pdf)
 
 **March 2026:** Learning-based approaches for informed data completion: Multi-scale spectral detection of Roscoff worms, M2 Intership - 6 months, starting in March 2026 - LISIC Laboratory - Université du Littoral Côte d’Opale - Saint Omer, France. 
 *Supervisors : Claire Guilloteau, Gilles Roussel.*
-Read more [here](../files/VERDEMES_Stage_2026-EN.pdf)
-En savoir plus [ici](../files/VERDEMES_Stage_2026-FR.pdf)
+Read more [here](../files/VERDEMES_Stage_2026-EN.pdf).
+En savoir plus [ici](../files/VERDEMES_Stage_2026-FR.pdf).
