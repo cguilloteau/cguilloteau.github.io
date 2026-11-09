@@ -19,4 +19,5 @@ News/Events
 ======
 
 **Nov. 2025 :** We are hiring a postdoctoral researcher (1 year) to work on Anomaly Localization in Industrial Internet of Things via Temporal Graph Auto-Encoders. See more on [Job Openings](jobs).
-**Nov. 2025 :** We are hiring a research intern (M2, 6 months) to work on learning-based approaches for informed data completion: multi-scale spectral detection of Roscoff worms. See more on [Job Openings](jobs).
+**Nov. 2026 :** We are hiring a research intern (M2, 6 months) to work on learning-based approaches for informed multi-scale hyperspectral image completion: Application to coastal ecosys-
+tem monitoring. See more on [Job Openings](jobs).
